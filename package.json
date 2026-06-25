@@ -1,11 +1,11 @@
 {
-  "name": "blended_products",
+  "name": "storyHomeWorkProject",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/storyClassWork/",
+    "build": "vite build --base=/storyHomeWorkProject/",
     "preview": "vite preview"
   },
   "devDependencies": {
